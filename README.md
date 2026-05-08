@@ -1,1 +1,1 @@
-# this is the folder for GLYPH experiment
+# This is the folder for GLYPH experiment
